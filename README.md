@@ -3,9 +3,15 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-<h1>Hema </h1>
+<h1>Hema  </h1>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=hema&style=flat&color=orange&label=PROFILE+VIEWS)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/18gjSPdLuS/?mibextid=wwXIfr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ibr3him_2005?igsh=MW41Ymh0Zm9lNmw2dA%3D%3D&utm_source=qr)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ibrahimsalama2005?_r=1&_t=ZS-97kahgxW4eH)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ebrahimsalama2005?si=TQkr1fPk2eoEikp5)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=flat&logo=snapchat&logoColor=black)](https://snapchat.com/t/v7cOxQZP)
 
 </div>
 
