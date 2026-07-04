@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-<h1>Hema | هيما 👋</h1>
+<h1>Hema 👋</h1>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=hema&style=flat&color=orange&label=PROFILE+VIEWS)
 
@@ -11,15 +11,15 @@
 
 <hr></hr>
 
-### 👨‍💻 عني
+### 👨‍💻 About Me
 
-- 🌍 من مصر
+- 🌍 From Egypt
 - 💻 Web Developer
 - 🎨 Photoshop Designer
-- 📚 بتعلم Web Development باحتراف
-- ⚡ اشتغلت على مشروع **CG-AI Health Monitor**
-- 🤖 مهتم بـ **ESP32** و **IoT**
-- 🚀 هدفي أشتغل Freelance وأبني Portfolio قوي
+- 📚 Learning Web Development professionally
+- ⚡ Worked on the **CG-AI Health Monitor** project
+- 🤖 Interested in **ESP32** and **IoT**
+- 🚀 Goal: go Freelance and build a strong Portfolio
 
 <hr></hr>
 
@@ -48,10 +48,10 @@ const Hema = {
 };
 ```
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; بتعلم **Web Development** باحتراف حالياً.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; بحب أدمج البرمجة مع الـ **IoT** ومشاريع الـ **ESP32**.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; اسألني عن **Web Dev, Photoshop, أو أي حاجة تقنية**.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; هدفي أوصل لمستوى احترافي في الـ **Freelancing**.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Currently learning **Web Development** professionally.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love combining programming with **IoT** and **ESP32** projects.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Web Dev, Photoshop, or anything tech-related**.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; My goal is to reach a professional level in **Freelancing**.
 
 <div align="center">
 
