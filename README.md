@@ -1,121 +1,74 @@
-<div align="center">
+<div align="center" width="50">
 
-# Hi I'm ibrahim Salama
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-### 💻 Web Developer | 🎨 Photoshop Designer | 🚀 Tech Enthusiast
+<h1>Hema | هيما 👋</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Bootstrap+Learner;Photoshop+Designer;Always+Learning+New+Things" />
+![Totals Hits](https://komarev.com/ghpvc/?username=hema&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
----
+<hr></hr>
 
-## 👨‍💻 About Me
+### 👨‍💻 عني
 
-- 🌱 Currently learning **Advanced Front-End Development**
-- 💻 Passionate about creating responsive websites
+- 🌍 من مصر
+- 💻 Web Developer
 - 🎨 Photoshop Designer
-- 🤖 Interested in IoT & ESP32 Projects
-- 🚀 Working on improving my programming skills every day
-- 📫 Reach me: **YOUR EMAIL**
-- 🌍 From Egypt 🇪🇬
+- 📚 بتعلم Web Development باحتراف
+- ⚡ اشتغلت على مشروع **CG-AI Health Monitor**
+- 🤖 مهتم بـ **ESP32** و **IoT**
+- 🚀 هدفي أشتغل Freelance وأبني Portfolio قوي
 
----
+<hr></hr>
 
-## 🚀 Tech Stack
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### Front-End
+```javascript
+// tools_I_use organized
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />
-</p>
+const Hema = {
+  languages: ["HTML", "CSS", "JavaScript", "Python", "C++"],
+  design: ["Photoshop", "Illustrator"],
+  hardware: ["ESP32", "Arduino", "IoT Projects"],
+  tools: ["Git", "VS Code"],
+  currentlyLearning: "Advanced Web Development",
+  goal: "Freelance Success & Strong Portfolio"
+};
+```
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c" />
-</p>
-
-### Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=ps,figma" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
-
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-## 💡 Quote
-
-> "Success doesn't come from what you do occasionally, it comes from what you do consistently."
-
----
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; بتعلم **Web Development** باحتراف حالياً.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; بحب أدمج البرمجة مع الـ **IoT** ومشاريع الـ **ESP32**.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; اسألني عن **Web Dev, Photoshop, أو أي حاجة تقنية**.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; هدفي أوصل لمستوى احترافي في الـ **Freelancing**.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+<a href="https://github.com/hema">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 </div>
