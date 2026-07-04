@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi I'm ibrahim Slama
+# Hi I'm ibrahim Salama
 
 ### 💻 Web Developer | 🎨 Photoshop Designer | 🚀 Tech Enthusiast
 
